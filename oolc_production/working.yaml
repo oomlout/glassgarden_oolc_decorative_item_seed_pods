@@ -1,0 +1,34 @@
+project_id: glassgarden_oolc_decorative_item_seed_pods
+project_name: "seed pods"
+project_repo: github.com/oomlout/glassgarden_oolc_decorative_item_seed_pods
+production_format:
+  tileable_rudebekia:
+    file_location: source_files/glassgarden_oolc_decorative_item_seed_pods_rudebekia_tileable.cdr
+    width: 162 mm
+    height: 594 mm
+  tileable_small_fern:
+    file_location: source_files/glassgarden_oolc_decorative_item_seed_pods_small_fern_tileable.cdr
+    width: 90 mm
+    height: 360 mm
+  tileable_large_fern:
+    file_location: source_files/glassgarden_oolc_decorative_item_seed_pods_large_fern_tileable.cdr
+    width: 160 mm
+    height: 435 mm
+  tileable_flower_1:
+    file_location: source_files/glassgarden_oolc_decorative_item_seed_pods_flower_1_tileable.cdr
+    width: 130 mm
+    height: 405 mm
+  tileable_flower_2:
+    file_location: source_files/glassgarden_oolc_decorative_item_seed_pods_flower_2_tileable.cdr
+    width: 175 mm
+    height: 470 mm
+  tileable_flower_3:
+    file_location: source_files/glassgarden_oolc_decorative_item_seed_pods_flower_3_tileable.cdr
+    width: 175 mm
+    height: 445 mm
+  tileable_flower_4:
+    file_location: source_files/glassgarden_oolc_decorative_item_seed_pods_flower_4_tileable.cdr
+    width: 125 mm
+    height: 420 mm
+  
+  
