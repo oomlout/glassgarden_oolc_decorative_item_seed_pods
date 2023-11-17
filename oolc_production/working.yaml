@@ -12,7 +12,7 @@ production_format:
     height: 360 mm
   tileable_large_fern:
     file_location: source_files/glassgarden_oolc_decorative_item_seed_pods_large_fern_tileable.cdr
-    width: 160 mm
+    width: 165 mm
     height: 435 mm
   tileable_flower_1:
     file_location: source_files/glassgarden_oolc_decorative_item_seed_pods_flower_1_tileable.cdr
