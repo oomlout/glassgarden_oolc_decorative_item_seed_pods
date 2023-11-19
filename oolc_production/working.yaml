@@ -6,12 +6,12 @@ production_format:
     file_location: source_files/glassgarden_oolc_decorative_item_seed_pods_rudebekia_tileable.cdr
     width: 162 mm
     height: 594 mm
-  tileable_small_fern:
-    file_location: source_files/glassgarden_oolc_decorative_item_seed_pods_small_fern_tileable.cdr
+  tileable_fern_small:
+    file_location: source_files/glassgarden_oolc_decorative_item_seed_pods_fern_small_tileable.cdr
     width: 90 mm
     height: 360 mm
-  tileable_large_fern:
-    file_location: source_files/glassgarden_oolc_decorative_item_seed_pods_large_fern_tileable.cdr
+  tileable_fern_large:
+    file_location: source_files/glassgarden_oolc_decorative_item_seed_pods_fern_large_tileable.cdr
     width: 165 mm
     height: 435 mm
   tileable_flower_1:
